@@ -26,5 +26,13 @@ title {
        word-spacing: 10px;
        box-shadow: #ff7043;
        block-size: auto;
-       margin: 100px;
+       margin: 50px;
         }
+
+        h2 {
+            text-align: center;
+            color: #ff7043;
+            font-size: larger;
+            margin: 100px;
+        }
+
