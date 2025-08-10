@@ -25,5 +25,6 @@ head {
 
         nav {
             text-align: center;
-       word-spacing: 10px;
+       word-spacing: 30px;
+       box-shadow: #ff7043;
         }
