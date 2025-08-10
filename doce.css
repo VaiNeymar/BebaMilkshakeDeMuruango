@@ -8,3 +8,16 @@ body {
     text-align: center;
     color: black;
 }
+
+    header {
+              background-color: #ff7043;
+               color: white;
+        text-align: center;
+        }
+        
+        nav {
+            text-align: center;
+       word-spacing: 30px;
+       box-shadow: #ff7043;
+       block-size: auto;
+        }
