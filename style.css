@@ -3,16 +3,19 @@ body {
             margin: 0;
             background-color: #fffaf3;
         }
-
-        title {
-            text-align: center;
-            color: blue;
-        }
+head {
+    text-align: center;
+    color: black;
+}
+    title {
+        text-align: center;
+        color: blue;
+    }
 
         header {
-            background-color: #ff7043;
-            color: white;
-            text-align: center;
+              background-color: #ff7043;
+               color: white;
+        text-align: center;
         }
 
         header h1 {
