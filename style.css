@@ -8,12 +8,11 @@ body {
             text-align: center;
             color: blue;
         }
-        
+
         header {
             background-color: #ff7043;
             color: white;
             text-align: center;
-            padding: 1.5rem 0;
         }
 
         header h1 {
