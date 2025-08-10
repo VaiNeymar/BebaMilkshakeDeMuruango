@@ -4,6 +4,11 @@ body {
             background-color: #fffaf3;
         }
 
+title {
+        text-align: center;
+        color: blue;
+    }
+    
         head {
     text-align: center;
     color: black;
