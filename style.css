@@ -27,4 +27,5 @@ head {
             text-align: center;
        word-spacing: 30px;
        box-shadow: #ff7043;
+       block-size: auto;
         }
