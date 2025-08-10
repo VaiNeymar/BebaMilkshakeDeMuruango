@@ -8,7 +8,7 @@ title {
         text-align: center;
         color: blue;
     }
-    
+
         head {
     text-align: center;
     color: black;
@@ -22,6 +22,7 @@ title {
         
         nav {
             text-align: center;
+            text-decoration-color: black;
        word-spacing: 10px;
        box-shadow: #ff7043;
        block-size: auto;
